@@ -1,0 +1,14 @@
+package simpleUnitTests;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ImageWriterTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

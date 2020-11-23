@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CameraTest" project="3Dproject" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="simpleUnitTests.CameraTest" time="0.022">
+    <testcase name="testConstructRay1" classname="simpleUnitTests.CameraTest" time="0.019"/>
+    <testcase name="testConstructRay2" classname="simpleUnitTests.CameraTest" time="0.003"/>
+  </testsuite>
+</testrun>
