@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RenderTest" project="3Dproject" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="simpleUnitTests.RenderTest" time="172.208">
+    <testcase name="finalTest2" classname="simpleUnitTests.RenderTest" time="24.751"/>
+    <testcase name="basicRendering" classname="simpleUnitTests.RenderTest" time="6.972"/>
+    <testcase name="shadowTest" classname="simpleUnitTests.RenderTest" time="10.658"/>
+    <testcase name="recursiveTest1" classname="simpleUnitTests.RenderTest" time="2.734"/>
+    <testcase name="recursiveTest2" classname="simpleUnitTests.RenderTest" time="2.812"/>
+    <testcase name="recursiveTest4" classname="simpleUnitTests.RenderTest" time="10.64"/>
+    <testcase name="finalTest" classname="simpleUnitTests.RenderTest" time="113.641"/>
+  </testsuite>
+</testrun>

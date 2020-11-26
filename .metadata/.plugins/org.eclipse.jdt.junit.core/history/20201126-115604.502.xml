@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LightTest" project="3Dproject" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="simpleUnitTests.LightTest" time="25.104">
+    <testcase name="spotLightTest1" classname="simpleUnitTests.LightTest" time="5.124"/>
+    <testcase name="spotLightTest2" classname="simpleUnitTests.LightTest" time="7.223"/>
+    <testcase name="spotLightTest3" classname="simpleUnitTests.LightTest" time="4.985"/>
+    <testcase name="pointLightTest1" classname="simpleUnitTests.LightTest" time="2.612"/>
+    <testcase name="pointLightTest2" classname="simpleUnitTests.LightTest" time="5.16"/>
+  </testsuite>
+</testrun>

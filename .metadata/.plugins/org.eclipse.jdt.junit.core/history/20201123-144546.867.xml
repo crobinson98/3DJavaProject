@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="VectorTest" project="3Dproject" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="simpleUnitTests.VectorTest" time="0.016">
+    <testcase name="testScale" classname="simpleUnitTests.VectorTest" time="0.012"/>
+    <testcase name="testDotProduct" classname="simpleUnitTests.VectorTest" time="0.0"/>
+    <testcase name="testCrossProduct" classname="simpleUnitTests.VectorTest" time="0.0"/>
+    <testcase name="testSubVector" classname="simpleUnitTests.VectorTest" time="0.0"/>
+    <testcase name="testAddVector" classname="simpleUnitTests.VectorTest" time="0.0"/>
+    <testcase name="testNormalize" classname="simpleUnitTests.VectorTest" time="0.0"/>
+    <testcase name="testLength" classname="simpleUnitTests.VectorTest" time="0.002"/>
+  </testsuite>
+</testrun>

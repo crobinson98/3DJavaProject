@@ -12,6 +12,7 @@ public abstract class Geometry //abstract class
 	protected Color _emission;
 	protected Material _material;
     
+	
     
 // ***************** Constructors ********************** //
 	/**

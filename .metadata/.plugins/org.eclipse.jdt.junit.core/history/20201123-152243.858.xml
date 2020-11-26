@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CoordinatTest" project="3Dproject" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="simpleUnitTests.CoordinatTest" time="0.0">
+    <testcase name="testSet" classname="simpleUnitTests.CoordinatTest" time="0.0"/>
+    <testcase name="testToString" classname="simpleUnitTests.CoordinatTest" time="0.0"/>
+    <testcase name="testEquals" classname="simpleUnitTests.CoordinatTest" time="0.0"/>
+  </testsuite>
+</testrun>
